@@ -2,7 +2,7 @@
 
 React Fake Login
 
-This is a super simple react project for faking login & logout. Use this to test custome component rendering with different login states.
+This is a super simple react project for faking login & logout. Use this to test your rendering of custom components with different login states.
 
 
 # Getting Started with Create React App
