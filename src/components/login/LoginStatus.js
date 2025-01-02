@@ -9,17 +9,9 @@ function LoginStatus() {
         <div>
         {LoggedIn ? (<>
         You are currently logged in.
-                {/* <NavLink onClick={logout} to={"/"}>
-                    Logout
-                </NavLink> */}
-                {/* <NavLink to={"/dashboard"}>Dashboard</NavLink>
-            <NavLink to={"/errorboundary"}>Error Boundary</NavLink> */}
             </>
             ) : (<>
         You are currently logged out.
-                {/* <NavLink to={"/login"}>Login</NavLink>
-            <NavLink to={"/register"}>Sign Up</NavLink> */}
-            
             </>
             )}
         </div>
